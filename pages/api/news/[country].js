@@ -5,7 +5,7 @@ import Parser from 'rss-parser';
 
 const parser = new Parser();
 const feedMap = {
-  us: 'http://rss.cnn.com/rss/edition.rss',
+  us: 'https://apnews.com/hub/ap-top-news/rss.xml',
   gb: 'http://feeds.bbci.co.uk/news/world/rss.xml',
   jp: 'https://www3.nhk.or.jp/rss/news/cat0.xml',
   cn: 'http://www.chinadaily.com.cn/rss/china_rss.xml',
