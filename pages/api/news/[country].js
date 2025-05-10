@@ -8,7 +8,7 @@ const feedMap = {
   us: 'http://rss.cnn.com/rss/cnn_topstories.rss',
   gb: 'http://feeds.bbci.co.uk/news/world/rss.xml',
   jp: 'https://www3.nhk.or.jp/rss/news/cat0.xml',
-  cn: 'http://www.chinadaily.com.cn/rss/china_rss.xml',
+  cn: 'https://1stsecuritynews.com/category/cctv/feed/',
   tw: 'https://news.ltn.com.tw/rss/all.xml',
 };
 
