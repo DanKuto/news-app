@@ -9,7 +9,7 @@ const feedMap = {
   gb: 'http://feeds.bbci.co.uk/news/world/rss.xml',
   jp: 'https://www3.nhk.or.jp/rss/news/cat0.xml',
   cn: 'http://www.chinadaily.com.cn/rss/china_rss.xml',
-  tw: ['https://news.ltn.com.tw/rss/all.xml',
+  tw: 'https://news.ltn.com.tw/rss/all.xml',
 };
 
 export default async function handler(req, res) {
